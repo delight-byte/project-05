@@ -82,13 +82,15 @@ Target regions with lower profit margins (e.g., Oceania) for potential growth op
 
 Analyze the reasons behind the profit decline and adjust pricing or marketing strategies accordingly.
 
-# Snap_Shot
-Dashboard of the Report
+# Snap Shot of The Dashboard
+
+Dashboard of the Report 
+
 <img width="1365" height="733" alt="dash" src="https://github.com/user-attachments/assets/b39fed35-d3b1-44bb-b310-fd19c21bfad0" />
 
 
 
-# Data_and_Tools
+# Data and Tools
 
 Dataset: Obtained from Kaggle.
 
